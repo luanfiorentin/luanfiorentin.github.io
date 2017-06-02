@@ -1,0 +1,12 @@
+name: "Meu site"
+output_dir: "."
+output:
+  html_document:
+    theme: journal
+
+navbar:
+  left:
+   - text: "Projeto: Regulação"
+     href: index.html
+   - text: "Projeto: Amostragem"
+     href: pag2.html

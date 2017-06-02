@@ -1,0 +1,56 @@
+---
+title: "RegulaÃfÆ'Ã,Â§ÃfÆ'Ã,Â£o de Florestas"
+author: "Luan_Fiorentin"
+date: '`r Sys.Date() `'
+output:
+  html_document:
+    code_folding: hide
+    number_sections: yes
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
+---
+
+
+<br />
+<br />
+
+# Introdução
+<br />
+    Definir diferentes estratégias de regulação é um processo essencial no planejamento, para permitir que alternativas de manejo estejam disponíveis na tomada de decisão e evitar que os empreendimentos fiquem suscetíveis às oscilações do mercado, especialmente quando o horizonte de planejamento envolvido é de longo prazo.
+<br />
+<br />
+
+# Objetivos
+<br />
+*Objetivo geral*
+<br />
+
+  - O objetivo geral do presente estudo foi planejar a produção volumétrica e realizar o agendamento da colheita dos povoamentos de Pinus elliottii e Pinus taeda, localizados na região de Caçador, no estado de Santa Catarina, Brasil.
+<br />
+
+*Objetivos específicos*
+<br />
+
+  - Classificar as áreas florestais quanto a sua produtividade, por meio de modelos estatísticos não lineares e construir curvas anamórficas de índice de sítio, para os povoamentos de Pinus elliottii e Pinus taeda;
+  
+  - Ajustar o modelo de afilamento polinomial de 5° Grau e analisar estatisticamente o seu desempenho para estimar o volume total das árvores de Pinus spp. para cada idade e para o conjunto total dos dados;
+  
+  -  Analisar a estrutura dos povoamentos florestais pré-regulação e testar diferentes estratégias de otimização para regular o volume de sortimentos dos povoamentos de Pinus spp.
+<br />
+<br />
+
+# Conclusão
+<br />
+  
+  - A programação linear é uma ferramenta matemática que proporciona resultados satisfatórios na otimização e regulação da estrutura volumétrica dos povoamentos florestais e deve ser utilizada como uma técnica de auxílio ao planejamento da produção florestal.
+
+  - As diferentes estratégias de otimização desenvolvidas conseguem regular a estrutura volumétrica dos povoamentos florestais e são capazes de resolver o problema de otimização desenvolvido nesse estudo, independente da sua formulação matemática.
+  
+  - As estratégias de otimização utilizadas conduzem de forma diferenciada as atividades silviculturais de desbastes e corte raso e a escolha de determinado modelo de regulação florestal deve ser realizada com base na preferência do empreendimento florestal.
+<br />
+<br />
+![](regulated.png)

@@ -1,0 +1,40 @@
+---
+title: Amostragem de Bitterlich
+author: "Luan_Fiorentin"
+date: "`r Sys.Date() `"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+    code_folding: hide
+---
+
+
+<br />
+<br />
+
+# Introdução
+<br />
+    O método de amostragem de Bitterlich apresenta grande potencial de aplicação em florestas nativas, onde a sua vantagem em relação a outros métodos de amostragem está na rapidez de instalação e medição da unidade amostral, proporcionando menores custos ao inventário. Segundo Farias et al. (2002), devido à simplicidade do procedimento para obtenção dos dados, a aplicação desse método pode ser de extrema utilidade, principalmente quando é necessário um diagnóstico rápido do estoque de madeira e de outras características de florestas inequiâneas, que por sua natureza demandam maiores esforços de amostragem.
+<br />
+<br />
+
+# Objetivos
+<br />
+
+  Devido à importância do método de amostragem de Bitterlich para os inventários realizados em florestas inequiâneas e heterogêneas em espécies, formalizou-se como objetivo avaliar o efeito do fator de área basal nos estimadores populacionais de diâmetro médio, número de árvores, área basal e volume por hectare, bem como nas respectivas frequências por classe de diâmetro, em um fragmento de Floresta Ombrófila Mista.
+<br />
+<br />
+
+# Conclusão
+<br />
+  
+  - A escolha do fator de área basal influencia diretamente na precisão dos estimadores populacionais, o que pode gerar estimativas precisas ou tendenciosas dos resultados do inventário florestal..
+
+  - O método de amostragem de Bitterlich é preciso para estimar as variáveis da floresta, sendo mais apropriado para o estimador de área basal.
+  
+  - Os resultados obtidos nesse estudo evidenciam que os estimadores do número de árvores, área basal e volume por hectare são mais consistentes quando se utiliza os fatores de área basal igual ou menores que 1para a população amostrada. Entretanto como o fator de área basal 1 atendeu a condição com o mínimo número de árvores, esse será o mais apropriado para também atender a condição de mínimo custo, o que comprova a hipótese formulada no presente trabalho.
+<br />
+<br />
+![](bitterlich.png)
