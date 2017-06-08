@@ -1,5 +1,5 @@
 ---
-title: "RegulaÃfÆ'Ã,Â§ÃfÆ'Ã,Â£o de Florestas"
+title: Floresta
 author: "Luan_Fiorentin"
 date: '`r Sys.Date() `'
 output:
@@ -53,4 +53,5 @@ output:
   - As estratégias de otimização utilizadas conduzem de forma diferenciada as atividades silviculturais de desbastes e corte raso e a escolha de determinado modelo de regulação florestal deve ser realizada com base na preferência do empreendimento florestal.
 <br />
 <br />
+
 ![](regulated.png)
