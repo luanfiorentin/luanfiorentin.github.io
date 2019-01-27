@@ -1,13 +1,17 @@
 ---
-title: Amostragem de Bitterlich
+title: "Amostragem de Bitterlich"
 author: "Luan_Fiorentin"
 date: "`r Sys.Date() `"
-output: 
+output:
   html_document:
-    toc: true
-    toc_float: true
-    number_sections: true
     code_folding: hide
+    number_sections: yes
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+  word_document:
+    toc: yes
 ---
 
 
@@ -35,6 +39,8 @@ output:
   - O método de amostragem de Bitterlich é preciso para estimar as variáveis da floresta, sendo mais apropriado para o estimador de área basal.
   
   - Os resultados obtidos nesse estudo evidenciam que os estimadores do número de árvores, área basal e volume por hectare são mais consistentes quando se utiliza os fatores de área basal igual ou menores que 1para a população amostrada. Entretanto como o fator de área basal 1 atendeu a condição com o mínimo número de árvores, esse será o mais apropriado para também atender a condição de mínimo custo, o que comprova a hipótese formulada no presente trabalho.
+  - Testando... 1, 2, 3...
+  
 <br />
 <br />
 
