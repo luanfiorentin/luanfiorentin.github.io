@@ -51,6 +51,8 @@ output:
   - As diferentes estratégias de otimização desenvolvidas conseguem regular a estrutura volumétrica dos povoamentos florestais e são capazes de resolver o problema de otimização desenvolvido nesse estudo, independente da sua formulação matemática.
   
   - As estratégias de otimização utilizadas conduzem de forma diferenciada as atividades silviculturais de desbastes e corte raso e a escolha de determinado modelo de regulação florestal deve ser realizada com base na preferência do empreendimento florestal.
+  - Testando... 1, 2, 3, eitaaa...
+  
 <br />
 <br />
 
